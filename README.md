@@ -2,11 +2,7 @@
 
 Former NCAA D1 All-American tennis player turned **product & data person**. I like asking "but why?" and then going to find the answer in the data.
 
-- 🎾 Data Analyst for the **INTENNSE** professional tennis league
-- 📱 Previously Product Manager at **iONSport** (live-scoring & smart-venue tech)
 - 🎓 MS in Artificial Intelligence · MA in Design Research (UT Austin) · BS in Cybersecurity
-- 🔎 Looking for **Associate Product Manager, Product Analyst and Data Analyst** roles 
-
 ---
 
 ## ⭐ Featured projects
