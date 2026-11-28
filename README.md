@@ -9,7 +9,7 @@ Former NCAA D1 All-American tennis player turned **product & data person**.
 ## 🛠️ Tools I use
 
 **Data & AI:** Python · pandas · NumPy · SQL · Jupyter · Tableau · Power BI · Excel
-**Product:** Jira · Figma · user research · requirements & roadmapping
+**Product:** Jira · user research · requirements & roadmapping
 **Building:** GitHub · HTML/JS · Playwright · Claude
 
 ---
